@@ -4,5 +4,5 @@ updates:
   - package-ecosystem: gitsubmodule
     schedule:
       interval: "daily"
-      time: "14:20"
-    directory: /submodules
+      time: "14:30"
+    directory: /
